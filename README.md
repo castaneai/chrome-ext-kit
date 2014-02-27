@@ -2,6 +2,7 @@ chrome-ext-kit
 ================
 
 Google Chromeの拡張機能を簡単に作れるキット
+
 ファイルを書き換えると自動的に拡張機能をリロードする機能付き
 
 事前に必要なもの
@@ -29,5 +30,6 @@ npm install
 gulp
 ```
 
-html, json, js, cssファイルが変更されるたびにChromeで拡張機能がリロードされる
+html, json, js, cssファイルが変更されるたびにChromeで拡張機能がリロードされる。
+
 Ctrl+Cでgulpを終了させることができます
